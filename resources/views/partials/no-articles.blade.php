@@ -1,0 +1,1 @@
+<p>Pas d'article disponible</p>
